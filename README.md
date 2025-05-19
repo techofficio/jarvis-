@@ -64,6 +64,7 @@ jarvis-chat/
 │  │  ├─ layout.tsx          ← Root layout
 │  │  └─ page.tsx            ← Home page
 │  ├─ components/
+│  │  ├─ Chat.tsx
 │  │  ├─ Renderer.tsx
 │  │  └─ blocks/
 │  │     ├─ Heading.tsx
